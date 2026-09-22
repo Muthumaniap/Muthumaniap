@@ -8,6 +8,7 @@ Generative AI &nbsp; / &nbsp; LLMs &nbsp; / &nbsp; AI Agents &nbsp; / &nbsp; RAG
 </p>
 
 <p align="center">
+<a href="https://muthumaniap.github.io/">Portfolio ↗</a> &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/muthumaniap/">Connect on LinkedIn ↗</a> &nbsp; · &nbsp;
 <a href="#selected-work">Selected work</a> &nbsp; · &nbsp;
 <a href="https://github.com/Muthumaniap?tab=repositories">Explore my code ↗</a>
